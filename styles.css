@@ -468,12 +468,12 @@ div.chat-box {
         left: auto !important;
         right: 15px;
     }
-}
 
-.d-none-xs {
-    display: none !important;
-}
+    .d-none-xs {
+        display: none !important;
+    }
 
-.d-initial-xs {
-    display: initial !important;
+    .d-initial-xs {
+        display: initial !important;
+    }
 }
